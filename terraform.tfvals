@@ -1,0 +1,5 @@
+your_aws_region = "..."
+your_aws_access_key = "..."
+your_aws_secret_key = "..."
+your_avaiability_zone = "..."
+your_key_name = "..."
